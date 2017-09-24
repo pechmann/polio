@@ -1,5 +1,5 @@
 ######################################################################################################################################################################
-#       Copyright 2017, Sebastian Pechmann, Universite de Montreal (The MIT License)
+#       Copyright 2017, Sebastian Pechmann, Université de Montréal (The MIT License)
 #
 #       Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
 #       to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
@@ -16,7 +16,7 @@ Data + computer code for Hsp90 polio paper.
 
 Reproduce all analyses and generate all corresponding figures from the raw input data (codon count tables):
 
-> python reprduce_all.py 
+> python reproduce_all.py 
 
 
 REQUIREMENTS: 	This code is optimized to run under Pyton2.7, and requires numpy, scipy, and rpy2 libraries installed. 
